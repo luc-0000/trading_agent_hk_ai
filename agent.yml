@@ -1,0 +1,5 @@
+import_path: main:main
+required_args: []
+
+reports_dir: /app
+requirements_path: requirements.txt

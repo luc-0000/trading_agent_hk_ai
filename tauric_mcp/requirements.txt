@@ -1,0 +1,6 @@
+# Specific dependencies for tauric_mcp
+# 🔒 锁定版本，避免自动升级导致的兼容性问题
+chromadb==1.5.1
+pydantic==2.12.5
+dashscope
+tushare
